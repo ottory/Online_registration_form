@@ -79,7 +79,7 @@ input[name="user_zip"]{
 }
 input:focus,
 textarea:focus  {
-    background-color: rgb(228, 228, 216);
+    background-color: rgb(184, 184, 93);
 }
 input[type="checkbox"]:checked + label {
     font-weight: bold;
